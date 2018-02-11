@@ -22,7 +22,7 @@ To install RDO on CentOS:
 
 Ensure you have a fully updated CentOS Linux 7/x86_64 machine, and run:
 
-      sudo yum install centos-release-openstack-liberty
+      sudo yum install centos-release-openstack-pike
       sudo yum install openstack-packstack
       packstack --allinone
 
